@@ -51,3 +51,6 @@ Entrega:
 
 ## Ferramentas utilizadas
 MySQL Workbench 8.0 CE
+
+# Imagem do Projeto
+![Projeto conceitual de Banco de Dados - GIT](https://github.com/user-attachments/assets/1b9b7bbe-f6d6-43fe-b27d-40abc2c18b90)
